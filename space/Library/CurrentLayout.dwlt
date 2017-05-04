@@ -96,7 +96,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 613}
   m_MaxSize: {x: 10004, y: 18063}
   vertical: 1
-  controlID: 804
+  controlID: 112
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: portrait
+  m_LastLoadedLayoutName: 
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 613}
   m_MaxSize: {x: 18008, y: 18063}
   vertical: 0
-  controlID: 466
+  controlID: 9
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -316,9 +316,9 @@ MonoBehaviour:
     height: 270
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 22eeffff
-    m_LastClickedID: -4574
-    m_ExpandedIDs: 4eadffff5cafffffb8dfffff22eeffffb6fbffffc0fbffff00000000
+    m_SelectedIDs: 9cd2feff
+    m_LastClickedID: -77156
+    m_ExpandedIDs: 92b5ffff0cfaffffc0fbffff0000000002270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -370,7 +370,7 @@ MonoBehaviour:
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: 450
+    m_CachedPref: 159
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
@@ -411,19 +411,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\limon\OneDrive\Documents\space\space
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a280000
-    m_LastClickedID: 10282
-    m_ExpandedIDs: 00000000102500009225000000ca9a3bffffff7f
+    m_SelectedIDs: e0250000
+    m_LastClickedID: 9696
+    m_ExpandedIDs: 00000000122500009625000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -451,7 +451,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001025000092250000da2500000626000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000001225000096250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -549,8 +549,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
@@ -562,18 +562,18 @@ MonoBehaviour:
       y: 17
       width: 684
       height: 909
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 342, y: 454.5}
+    m_Scale: {x: 1.1559032, y: 1.1559032}
+    m_Translation: {x: 337.22906, y: 418.59183}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -342
-      y: -454.5
-      width: 684
-      height: 909
+      x: -291.74506
+      y: -362.13397
+      width: 591.74506
+      height: 786.398
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
@@ -609,14 +609,14 @@ MonoBehaviour:
     width: 684
     height: 926
   m_SceneLighting: 1
-  lastFramingTime: 5692.973609590775
+  lastFramingTime: 1798.2858435845749
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.006505966, y: 0, z: -0.6197297}
+    m_Target: {x: 0.008911133, y: -0.009765625, z: 1.0052071}
     speed: 2
-    m_Value: {x: 0.006505966, y: 0, z: -0.6197297}
+    m_Value: {x: 0.008911133, y: -0.009765625, z: 1.0052071}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -639,13 +639,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.17526452, y: 0.68734235, z: -0.17653105, w: 0.68240887}
     speed: 2
-    m_Value: {x: -0.7071068, y: -0, z: 0, w: -0.7071068}
+    m_Value: {x: 0.17526433, y: 0.68734163, z: -0.17653085, w: 0.68240815}
   m_Size:
-    m_Target: 6.4692664
+    m_Target: 6.6793923
     speed: 2
-    m_Value: 6.4692664
+    m_Value: 6.6793923
   m_Ortho:
     m_Target: 1
     speed: 2
