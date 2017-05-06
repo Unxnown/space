@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour {
 	private float nextFire = 0.0f;
 
 	void Update () {
-		if (Input.GetButton ("Fire1") && Time.time > nextFire) {
+		if (Input.GetButton ("Jump") && Time.time > nextFire) {
 			
 			nextFire = Time.time + fireRate;
 			Instantiate(shot, shotSpawn.position, shotSpawn.rotation);
